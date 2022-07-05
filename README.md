@@ -1,7 +1,7 @@
 # Webpack Started
 
 
-Este es una plantilla para usar webpack en aplicaciones.
+Estos son los comandos para hacer la instalación del proyecto.
 
 ### Notas
 Recuerden hacer las instalaciones pertinentes, entre ellas Node
